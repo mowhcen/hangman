@@ -1,8 +1,5 @@
 import Hangman from "./hangman";
 import getPuzzle from "./requests";
-import isEmail from "validator/lib/isEmail";
-
-console.log(isEmail("mowhcen@gmail.com"));
 
 const puzzleEl = document.querySelector("#puzzle");
 const leftGuessEl = document.querySelector("#leftGuess");

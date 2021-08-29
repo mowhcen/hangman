@@ -1,8 +1,7 @@
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+bundle.js
+bundle.js.map
 
 
 # Dependency directories
